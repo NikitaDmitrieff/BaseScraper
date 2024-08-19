@@ -1,0 +1,3 @@
+[submodule "BaseModel"]
+	path = BaseModel
+	url = https://github.com/NikitaDmitrieff/BaseModel.git
